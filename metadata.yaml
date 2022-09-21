@@ -1,0 +1,24 @@
+_repo: King-Edward-s-realm-Story-of-the-making-of-the-Empire_68886
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dawe, C. S.
+    gutenberg_agent_id: '54998'
+    url: http://www.gutenberg.org/2009/agents/54998
+description: ''
+gutenberg_issued: '2022-09-01'
+identifiers:
+  gutenberg: '68886'
+language: en
+pgterms:marc905: 20220815224553dawe
+pgterms:marc906: '1902'
+pgterms:marc907: GB
+production_note: Al Haines
+publication_note: United Kingdom :The Educational Supply Association, Limited,1902.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'King Edward''s realm: Story of the making of the Empire'
+url: http://www.gutenberg.org/ebooks/68886
