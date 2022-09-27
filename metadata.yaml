@@ -1,11 +1,16 @@
 _repo: King-Edward-s-realm-Story-of-the-making-of-the-Empire_68886
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68886-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Dawe, C. S.
     gutenberg_agent_id: '54998'
     url: http://www.gutenberg.org/2009/agents/54998
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68886#King-Edward-s-realm-Story-of-the-making-of-the-Empire
 gutenberg_issued: '2022-09-01'
 identifiers:
   gutenberg: '68886'
